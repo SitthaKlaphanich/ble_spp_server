@@ -2570,3 +2570,5 @@
 303627	304059	7517314673144510	D:/ble_spp_server/build/.bin_timestamp	ccecad85e3994313
 304060	304181	0	esp-idf/esptool_py/CMakeFiles/app_check_size	dc5567c048cb3354
 304060	304181	0	D:/ble_spp_server/build/esp-idf/esptool_py/CMakeFiles/app_check_size	dc5567c048cb3354
+108	2791865	0	CMakeFiles/confserver	9093ac3997f132e5
+108	2791865	0	D:/ble_spp_server/build/CMakeFiles/confserver	9093ac3997f132e5
